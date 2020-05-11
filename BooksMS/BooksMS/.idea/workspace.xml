@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BooksMS:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d024d1d-28c4-4594-ab50-ff2612d4dbf3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1YppwVEQEUFb0BpyZkrrYhoH5cO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\myworkspace\BooksMS\web\WEB-INF" />
+      <recent name="C:\myworkspace\BooksMS\web" />
+      <recent name="C:\myworkspace\BooksMS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\myworkspace\BooksMS\src\com\bjsxt\mapper" />
+      <recent name="C:\myworkspace\BooksMS\src\com\bjsxt\service\impl" />
+      <recent name="C:\myworkspace\BooksMS\src\com\bjsxt\service" />
+      <recent name="C:\myworkspace\BooksMS\src\com\bjsxt\pojo" />
+      <recent name="C:\myworkspace\BooksMS\src\com\bjsxt\controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.38" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.38" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:18080/BooksMS/index.jsp" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="BooksMS:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/BooksMS" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_BooksMS_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49898" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.28815368" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d024d1d-28c4-4594-ab50-ff2612d4dbf3" name="Default Changelist" comment="" />
+      <created>1583649628042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583649628042</updated>
+      <workItem from="1583649631175" duration="1791000" />
+      <workItem from="1583651435386" duration="2621000" />
+      <workItem from="1583655398566" duration="9400000" />
+      <workItem from="1583670292403" duration="61000" />
+      <workItem from="1583670369778" duration="1501000" />
+      <workItem from="1583672906393" duration="144000" />
+      <workItem from="1583673187714" duration="331000" />
+      <workItem from="1583673527949" duration="3160000" />
+      <workItem from="1583712783238" duration="4555000" />
+      <workItem from="1583718638379" duration="610000" />
+      <workItem from="1583720240627" duration="4000" />
+      <workItem from="1583720262223" duration="47000" />
+      <workItem from="1583720344819" duration="6339000" />
+      <workItem from="1583728995957" duration="41000" />
+      <workItem from="1583735989327" duration="2397000" />
+      <workItem from="1583740096909" duration="373000" />
+      <workItem from="1583747738543" duration="43000" />
+      <workItem from="1583747805606" duration="26000" />
+      <workItem from="1583747846384" duration="47000" />
+      <workItem from="1583748014295" duration="5786000" />
+      <workItem from="1583754525639" duration="732000" />
+      <workItem from="1583755269089" duration="3288000" />
+      <workItem from="1583758722336" duration="658000" />
+      <workItem from="1583760256741" duration="1622000" />
+      <workItem from="1583761936516" duration="184000" />
+      <workItem from="1583762138029" duration="942000" />
+      <workItem from="1583810410467" duration="35000" />
+      <workItem from="1583810947477" duration="8472000" />
+      <workItem from="1583827474795" duration="976000" />
+      <workItem from="1583828457717" duration="5362000" />
+      <workItem from="1583836806630" duration="3656000" />
+      <workItem from="1583843294251" duration="1306000" />
+      <workItem from="1583901243733" duration="1866000" />
+      <workItem from="1583905817497" duration="51000" />
+      <workItem from="1583906383131" duration="662000" />
+      <workItem from="1583907265308" duration="47000" />
+      <workItem from="1583907354120" duration="2187000" />
+      <workItem from="1583911273457" duration="953000" />
+      <workItem from="1583913933327" duration="35000" />
+      <workItem from="1583914066543" duration="129000" />
+      <workItem from="1583927704391" duration="32000" />
+      <workItem from="1583927752885" duration="79000" />
+      <workItem from="1583928116832" duration="3131000" />
+      <workItem from="1583986514744" duration="5512000" />
+      <workItem from="1584003443151" duration="5460000" />
+      <workItem from="1584010128131" duration="853000" />
+      <workItem from="1584011010943" duration="4000" />
+      <workItem from="1584011064621" duration="444000" />
+      <workItem from="1584011519174" duration="2787000" />
+      <workItem from="1584014570364" duration="3593000" />
+      <workItem from="1584018185945" duration="2238000" />
+      <workItem from="1584021075564" duration="573000" />
+      <workItem from="1584074455171" duration="1387000" />
+      <workItem from="1584075850306" duration="1783000" />
+      <workItem from="1584078288956" duration="30000" />
+      <workItem from="1584080593206" duration="3422000" />
+      <workItem from="1584090249624" duration="4000" />
+      <workItem from="1584090271087" duration="30000" />
+      <workItem from="1584090317554" duration="28000" />
+      <workItem from="1584090405792" duration="93000" />
+      <workItem from="1584090528662" duration="123000" />
+      <workItem from="1584090788880" duration="8003000" />
+      <workItem from="1584100746618" duration="4403000" />
+      <workItem from="1584159422547" duration="85000" />
+      <workItem from="1584159934858" duration="6302000" />
+      <workItem from="1584169634512" duration="994000" />
+      <workItem from="1584170727918" duration="442000" />
+      <workItem from="1584172634294" duration="334000" />
+      <workItem from="1584173109350" duration="3024000" />
+      <workItem from="1584176951207" duration="7808000" />
+      <workItem from="1584190486333" duration="696000" />
+      <workItem from="1584246659842" duration="47000" />
+      <workItem from="1584246744753" duration="54000" />
+      <workItem from="1584247184670" duration="7183000" />
+      <workItem from="1584321941147" duration="37000" />
+      <workItem from="1584323888064" duration="3173000" />
+      <workItem from="1584503115705" duration="1706000" />
+      <workItem from="1584508325065" duration="38000" />
+      <workItem from="1584508564102" duration="607000" />
+      <workItem from="1584584464508" duration="39000" />
+      <workItem from="1584584539478" duration="9000" />
+      <workItem from="1585204807084" duration="5483000" />
+      <workItem from="1585212673574" duration="36000" />
+      <workItem from="1585212733552" duration="26000" />
+      <workItem from="1585212799880" duration="877000" />
+      <workItem from="1585213813696" duration="668000" />
+      <workItem from="1585219873471" duration="620000" />
+      <workItem from="1585222848634" duration="32000" />
+      <workItem from="1585224390307" duration="28000" />
+      <workItem from="1585224465953" duration="47000" />
+      <workItem from="1585224529607" duration="50000" />
+      <workItem from="1585225415174" duration="1327000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="215" y="148" key="#Project_Structure" timestamp="1583651291389">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="215" y="148" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583651291389" />
+    <state x="269" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583672959921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="269" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583672959921" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1584019644223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584019644223" />
+    <state x="406" y="109" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1583649814201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="406" y="109" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.824@0.0.1536.824" timestamp="1583649814201" />
+    <state x="500" y="200" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1583650116354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="200" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583650116354" />
+    <state x="978" y="193" key="FileChooserDialogImpl" timestamp="1585222875898">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="978" y="193" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585222875898" />
+    <state width="666" height="95" key="GridCell.Tab.0.bottom" timestamp="1585208995100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="666" height="95" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585208995100" />
+    <state width="666" height="95" key="GridCell.Tab.0.center" timestamp="1585208995100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="666" height="95" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585208995100" />
+    <state width="666" height="95" key="GridCell.Tab.0.left" timestamp="1585208995100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="666" height="95" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585208995100" />
+    <state width="666" height="95" key="GridCell.Tab.0.right" timestamp="1585208995100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="666" height="95" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585208995100" />
+    <state width="666" height="95" key="GridCell.Tab.1.bottom" timestamp="1585208995100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="666" height="95" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585208995100" />
+    <state width="666" height="95" key="GridCell.Tab.1.center" timestamp="1585208995100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="666" height="95" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585208995100" />
+    <state width="666" height="95" key="GridCell.Tab.1.left" timestamp="1585208995100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="666" height="95" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585208995100" />
+    <state width="666" height="95" key="GridCell.Tab.1.right" timestamp="1585208995100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="666" height="95" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585208995100" />
+    <state width="666" height="95" key="GridCell.Tab.2.bottom" timestamp="1585208995101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="666" height="95" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585208995101" />
+    <state width="666" height="95" key="GridCell.Tab.2.center" timestamp="1585208995100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="666" height="95" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1585208995100" />
+    <state width="666" height="95" key="GridCell.Tab.2.left" timestamp="1585208995100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="666" height="95" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1585208995100" />
+    <state width="666" height="95" key="GridCell.Tab.2.right" timestamp="1585208995101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="666" height="95" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1585208995101" />
+    <state x="433" y="154" key="NewModule_or_Project.wizard" timestamp="1583650067345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="433" y="154" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1583650067345" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1585213064781">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585213064781" />
+    <state x="617" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1585225454503">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="617" y="275" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585225454503" />
+    <state x="203" y="0" key="new project wizard" timestamp="1583649967532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="203" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583649967532" />
+    <state x="750" y="145" key="search.everywhere.popup" timestamp="1584172654285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="750" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584172654285" />
+  </component>
+</project>
